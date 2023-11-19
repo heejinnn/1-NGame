@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137696424907",
+    "project_id": "ngame-project-e7402",
+    "storage_bucket": "ngame-project-e7402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137696424907:android:55342443f076bd713bbc4e",
+        "android_client_info": {
+          "package_name": "com.example.a1_ngame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137696424907-9unfc4728kfnpanclvuau7f8459ggi8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoSd_60YS_PPzmVMMPefZq8oRNn2yv8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137696424907-9unfc4728kfnpanclvuau7f8459ggi8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
